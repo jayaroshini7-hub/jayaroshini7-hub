@@ -12,11 +12,11 @@
 
 ---
 
-### 📂 Featured Projects
-1. **[BFSI Credit Risk & Loan Default Analysis (Power BI + Statistics)](#)** *(Uploading next)*
-2. **[Customer Churn & A/B Hypothesis Testing (Python)](#)** *(Uploading next)*
-3. **[Retail Demand & Time Series Forecasting (R / Python)](#)** *(Uploading next)*
 
+### 📂 Featured Projects
+1. **[BFSI Credit Risk & Loan Default Analysis](https://github.com/jayaroshini7-hub/BFSI-Credit-Risk-PowerBI-Analysis)** — *Power BI, DAX, Python (SciPy Welch's t-test & Chi-Square)*
+2. **[Telecom Customer Churn & A/B Pricing Experiment](https://github.com/jayaroshini7-hub/Customer-Churn-AB-Testing-Python)** — *Python, Statsmodels Logistic Regression, Two-Proportion Z-Test*
+3. **[Retail Demand & Time Series Forecasting](https://github.com/jayaroshini7-hub/Retail-Demand-TimeSeries-Forecasting)** — *Time Series Modeling, Holt-Winters Exponential Smoothing, MAPE Evaluation*
 ---
 
 ### 📫 Connect With Me
